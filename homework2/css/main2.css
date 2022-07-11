@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+}
+.cards{
+    width: 250px;
+    height: 300px;
+    background: #bbbbdc;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.cards >div >p{
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: justify;
+}
+.asd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-box> button{
+    width: 100px;
+    height: 50px;
+    background: aliceblue;
+}
