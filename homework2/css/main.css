@@ -1,0 +1,39 @@
+.abc{
+    width: 800px;
+    height: 800px;
+}
+.cvb{
+    background: #4646b6;
+    width: 800px;
+    height: 200px;
+}
+div > p {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+.qwe{
+    background: #4646b6;
+    width: 200px;
+    height: 200px;
+}
+.asd{  background: #4646b6;
+    width: 200px;
+    height: 200px;
+}
+.you{ background: #4646b6;
+    width: 200px;
+    height: 200px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.wer{
+    background: #4646b6;
+    width: 800px;
+    height: 200px;
+    padding-top: 0px;
+}
